@@ -36,9 +36,15 @@
 
 ---
 
+
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madaminbek-ai&bg_color=020617&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madaminbek-ai&theme=github_dark"
+    width="95%"
+    alt="GitHub Activity"
+  />
 </p>
+
 
